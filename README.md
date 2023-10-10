@@ -61,6 +61,7 @@ With our automated pipeline, we successfully processed 70 samples in just 14 day
 This represents a significant cost and time reduction compared to traditional multiplex imaging methods.
 
 ![Multiplex Image Example](example_multiplex_image.jpg)
+<img src="example_multiplex_image.png" alt="Example Multiplex Image" width="300">
 Example of output from the multiplex from a 30 marker protein panel by immunofluorescence. An automated Groovy script tiles the images into 4928 x 4928 pixel tiles. Each tile represents the 31 targets of the multiplex panel.
 
 
