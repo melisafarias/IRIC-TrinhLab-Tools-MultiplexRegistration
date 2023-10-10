@@ -40,16 +40,20 @@ We've created a novel fully automated pipeline using the following technologies:
 - **Python**: Shading correction using ZenBlue through Python scripting.
 - **QuPath Scripting (Groovy)**: Tiling and cell segmentation.
 - **ImageJ Macros (IJM)**: Image registration and stacking.
-- **R**: PCA and statistical analysis for signal extraction.
+- **R**: Single-cell analysis (PCA, driver markers, cell population comparisons,statistical analysis for signal extraction).
 
 
-### Installation
-You can install the required Python packages using [pip](https://pip.pypa.io/en/stable/). Use the following command to install them:
-pip install -r requirements.txt
+## Installation
+Before you begin, ensure you have met the following requirements:
+
+- **Python 3.x:** Make sure you have Python 3.x installed. You can download it from [python.org](https://www.python.org/downloads/).
+- **QuPath:** Install QuPath, an open-source digital pathology software, following the instructions provided on the [QuPath website](https://qupath.github.io/).
+- **ImageJ/Fiji:** Install ImageJ/Fiji, an image processing software, by downloading it from the [ImageJ website](https://imagej.net/Downloads).
+- **R:** Install R, a statistical computing environment, from [CRAN](https://cran.r-project.org/mirrors.html).
 
 
 ## Usage
-Python, QuPath Scripting (Groovy), and ImageJ Macros (IJM) were used to create our novel fully automated pipeline. The process consists of shading correction using ZenBlue through Python scripting, Qupath tiling through Groovy Scripting, Image registration with HyperStackReg in IJM, and image stacking in IJM.
+Python, QuPath Scripting (Groovy), and ImageJ Macros (IJM) were used to create our novel fully automated pipeline. The process consists of shading correction using ZenBlue through Python scripting, Qupath tiling through Groovy Scripting, Image registration and image stacking in IJM.
 Cell segmentation is performed in QuPath. Signal extraction is performed in QuPath. PCA and statistics are run in R.
 
 ## Experimental Results 
