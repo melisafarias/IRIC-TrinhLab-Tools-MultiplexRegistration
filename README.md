@@ -68,10 +68,6 @@ This represents a significant cost and time reduction compared to traditional mu
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### MIT License
-
-MIT License
-
 Copyright (c) [2023] [Melisa Farias Gonzalez] [Zean Ghanmeh]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
