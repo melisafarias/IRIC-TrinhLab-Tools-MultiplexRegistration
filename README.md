@@ -67,6 +67,7 @@ Example of output from the multiplex from a 30 marker protein panel by immunoflu
 
 
 Example of tile registered and multiplexed:
+
 <img src="example_multiplex_image2.PNG" alt="Example Multiplexed Image" width="300">
 
 
