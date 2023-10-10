@@ -56,8 +56,8 @@ Before you begin, ensure you have met the following requirements:
 Python, QuPath Scripting (Groovy), and ImageJ Macros (IJM) were used to create our novel fully automated pipeline. The process consists of shading correction using ZenBlue through Python scripting, Qupath tiling through Groovy Scripting, Image registration and image stacking in IJM.
 Cell segmentation is performed in QuPath. Signal extraction is performed in QuPath. PCA and statistics are run in R.
 
-## Experimental Results 
 
+## Experimental Results 
 With our automated pipeline, we successfully processed 70 samples in just 14 days at a cost of $280 per sample.
 This represents a significant cost and time reduction compared to traditional multiplex imaging methods.
 
@@ -65,8 +65,11 @@ This represents a significant cost and time reduction compared to traditional mu
 Example of output from the multiplex from a 30 marker protein panel by immunofluorescence. An automated Groovy script tiles the images into 4928 x 4928 pixel tiles. Each tile represents the 31 targets of the multiplex panel.
 
 
+
 <img src="example_multiplex_image2.PNG" alt="Example Multiplexed Image" width="300">
-Example of figure registered and multiplexed
+Example of tile registered and multiplexed
+
+
 
 ## Contributing 
 
