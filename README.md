@@ -64,8 +64,8 @@ This represents a significant cost and time reduction compared to traditional mu
 Example of output from the multiplex from a 30 marker protein panel by immunofluorescence. An automated Groovy script tiles the images into 4928 x 4928 pixel tiles. Each tile represents the 31 targets of the multiplex panel.
 
 
-![Multiplex Image Example](example_multiplex_image2.jpg)
-Same figure registered and multiplexed
+![Multiplex Image Example](example_multiplex_image2.PNG)
+Example of figure registered and multiplexed
 
 ## Contributing 
 
