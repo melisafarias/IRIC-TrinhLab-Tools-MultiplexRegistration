@@ -60,12 +60,11 @@ Cell segmentation is performed in QuPath. Signal extraction is performed in QuPa
 With our automated pipeline, we successfully processed 70 samples in just 14 days at a cost of $280 per sample.
 This represents a significant cost and time reduction compared to traditional multiplex imaging methods.
 
-![Multiplex Image Example](example_multiplex_image.jpg)
-<img src="example_multiplex_image.png" alt="Example Multiplex Image" width="300">
+<img src="example_multiplex_image.jpg" alt="Example Multiplex Process" width="400">
 Example of output from the multiplex from a 30 marker protein panel by immunofluorescence. An automated Groovy script tiles the images into 4928 x 4928 pixel tiles. Each tile represents the 31 targets of the multiplex panel.
 
 
-![Multiplex Image Example](example_multiplex_image2.PNG)
+<img src="example_multiplex_image2.PNG" alt="Example Multiplexed Image" width="400">
 Example of figure registered and multiplexed
 
 ## Contributing 
