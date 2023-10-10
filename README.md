@@ -19,7 +19,7 @@ The trained models and the dataset are not available publicly due to the require
 
 ## Overview
 Multiplex imaging is a powerful technique for validating and discovering signaling pathways by highlighting 30-60 targets on the same tissue. However, this process is traditionally expensive and time-consuming, with proprietary reagents and software costs making it challenging to produce multiplex images consistently. 
-*Cyclic Multiplex Imaging by Fluorescence (MxIF)* offers a cost-effective alternative that utilizes available equipment and open-source software. In this project, we aim to recreate the complete setup of multiplex imaging to support a 30-protein 
+*Cyclic Multiplex Imaging by Fluorescence (MxIF)* offers a cost-effective alternative that utilizes available equipment and open-source software. In this project, we aim to recreate the complete setup of multiplex imaging to support a 30-protein panel. 
 
 ## Project Structure
 The project is structured as follows:
